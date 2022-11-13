@@ -1,5 +1,5 @@
 # Timur Hukmatov 👋
-- 😎 Python Developer
+- 😎 Middle Backend Developer
 - 💻 Core Stack: Python, Go.
 - 🔥 Interested in Blockchain & ML
 
