@@ -1,7 +1,4 @@
-# Timur Hukmatov 👋
-- 😎 Middle Backend Developer
-- 💻 Core Stack: Python, Go.
-- 🔥 Interested in Blockchain & ML
+# Timur Hukmatov
 
 <!---
 4FR4KO-POVELECKO/4FR4KO-POVELECKO is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
